@@ -1,2 +1,4 @@
 # datacamp_projects
-Repository with the projects that I did at DataCamp
+Repository with the projects that I did at DataCamp, during my membership time.
+
+- [My profile link](https://www.datacamp.com/profile/gabrielfas)
